@@ -14,7 +14,7 @@ An end-to-end Machine Learning pipeline designed to identify and classify malici
 * **Libraries:** PyTorch, Hugging Face Transformers, Scikit-learn, Pandas
 * **Tools:** Jupyter Notebook, Matplotlib (for confusion matrices)
 
-## 📊 Results
+## 🛡️ Security Impact & Outcomes
 * Focus: Accuracy & Threat Intelligence
 Outcome: 
 * Achieved a 92.2% Detection Accuracy, significantly reducing "False Negatives" compared to traditional signature-based detection methods.
